@@ -36,7 +36,7 @@
 [Guidelines](https://www.contributor-covenant.org/version/1/4/code-of-conduct/)
 
 ## Link
-[Text-Editor](text-editor1.herokuapp.com/)
+[Text-Editor](https://text-editor1.herokuapp.com/)
 
 ## License
 This project is licensed under the MIT License.
